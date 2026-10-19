@@ -1,0 +1,6 @@
+Atelier Cloud (ya Atelier Code)
+Origin & Meaning: Atelier (Pronounced: Ah-tell-yay) ek French word hai jiska matlab hota hai "A Master Craftsman's Workshop"—jahan ordinary artisans nahi, balki masters baith kar bespoke (custom) high-end artwork aur engineering create karte hain.
+
+Why it Appeals to International Clients: Foreign clients generic mass-production code houses se nafrat karte hain. Atelier unhe ye message deta hai ki aapka har MERN architecture aur cloud system ek Master's Craft hai—clean, hand-tailored, aur bulletproof.
+
+Tagline: Bespoke Web & Cloud Architecture.
